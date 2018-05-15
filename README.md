@@ -118,3 +118,4 @@ Prefer to work for yourself? Here's a list of freelancing websites.
 | ❇️ | [Speedlancer](https://speedlancer.com/) | Designers & Developers. | 600,000 |🌟|
 | ❇️ | [Moonlight](https://www.moonlightwork.com/) | Designers & Developers. | 800,000 |🌟|
 | ❇️ | [Loom](https://www.loom.co/) | Designers & Developers. | 10,000,000 |🌟|
+| ❇️ | [Talent4Gig](https://www.talent4gig.com.com/) | Freelance gigs in all sectors. | No rating |🌟 |
